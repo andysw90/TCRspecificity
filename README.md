@@ -33,8 +33,3 @@ Overall, this code is designed to train a predictive model using immune receptor
 ## Usage
 
 Please refer to individual scripts in the src/ directory for usage details. Each script contains comments explaining its purpose and functionality.
-
-## Contact
-
-Your Name - andysw90@gmail.com
-Project Link: https://github.com/andysw90/TCRspecificity
